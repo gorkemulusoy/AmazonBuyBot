@@ -1,3 +1,4 @@
+This bot developed as a C# Console app with Selenium.
 I developed this bot to buy GPU for cryptomining from Amazon. 
 As you know, MSRP graphics card cannot be found worldwide. 
 Selenium based bot doesn't have any UI. It is a console app. 
